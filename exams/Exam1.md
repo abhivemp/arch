@@ -1,6 +1,6 @@
 # Exam 1 Readings
 
-Find the Reading Material Here. 
+Find the Reading Material [Here](https://github.com/abhivemp/arch/tree/master/reading-material). 
 
 ## Mux & Combinational Logic
 

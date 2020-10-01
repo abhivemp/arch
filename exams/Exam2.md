@@ -1,6 +1,6 @@
 # Exam 2 Readings 
 
-Find the Reading Material Here. 
+Find the Reading Material [Here](https://github.com/abhivemp/arch/tree/master/reading-material). 
 
 ## Operand Addressing, Instruction Set and Representation (Addressing)
 
